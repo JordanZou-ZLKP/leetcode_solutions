@@ -13,3 +13,5 @@ LeetCode
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Erlang](./algorithms/erlang/longest-substring-without-repeating-characters/length_of_longest_substring.erl) | Medium       |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Erlang](./algorithms/erlang/median-of-two-sorted-arrays/find_median_sorted_arrays.erl) | Hard       |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description) | [Erlang](./algorithms/erlang/next-greater-numerically-balanced-number/next_beautiful_number.erl) | Medium       |
+| 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description) | [Erlang](./algorithms/erlang/calculate-money-in-leetcode-bank/total_money.erl) | Easy       |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Erlang](./algorithms/erlang/zigzag-conversion/convert.erl) | Medium       |
