@@ -17,3 +17,6 @@ LeetCode
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Erlang](./algorithms/erlang/zigzag-conversion/convert.erl) | Medium       |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/) | [Erlang](./algorithms/erlang/number-of-laser-beams-in-a-bank/number_of_beams.erl) | Medium       |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Erlang](./algorithms/erlang/make-array-elements-equal-to-zero/count_valid_selections.erl) | Easy       |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Erlang](./algorithms/erlang/reverse-integer/reverse.erl) | Medium       |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Erlang](./algorithms/erlang/string-to-integer-atoi/my_atoi.erl) | Medium       |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Erlang](./algorithms/erlang/palindrome-number/is_palindrome.erl) | Easy       |
