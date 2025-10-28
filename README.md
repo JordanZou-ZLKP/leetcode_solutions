@@ -16,3 +16,4 @@ LeetCode
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description) | [Erlang](./algorithms/erlang/calculate-money-in-leetcode-bank/total_money.erl) | Easy       |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Erlang](./algorithms/erlang/zigzag-conversion/convert.erl) | Medium       |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/) | [Erlang](./algorithms/erlang/number-of-laser-beams-in-a-bank/number_of_beams.erl) | Medium       |
+| 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Erlang](./algorithms/erlang/make-array-elements-equal-to-zero/count_valid_selections.erl) | Easy       |
