@@ -20,3 +20,5 @@ LeetCode
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Erlang](./algorithms/erlang/reverse-integer/reverse.erl) | Medium       |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Erlang](./algorithms/erlang/string-to-integer-atoi/my_atoi.erl) | Medium       |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Erlang](./algorithms/erlang/palindrome-number/is_palindrome.erl) | Easy       |
+| 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/) | [Erlang](./algorithms/erlang/smallest-number-with-all-set-bits/smallest_number.erl) | Easy       |
+| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/) | [Erlang](./algorithms/erlang/minimum-number-of-increments-on-subarrays-to-form-a-target-array/min_number_operations.erl) | Hard       |
