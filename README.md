@@ -22,3 +22,4 @@ LeetCode
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Erlang](./algorithms/erlang/palindrome-number/is_palindrome.erl) | Easy       |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/) | [Erlang](./algorithms/erlang/smallest-number-with-all-set-bits/smallest_number.erl) | Easy       |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/) | [Erlang](./algorithms/erlang/minimum-number-of-increments-on-subarrays-to-form-a-target-array/min_number_operations.erl) | Hard       |
+| 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description) | [Erlang](./algorithms/erlang/the-two-sneaky-numbers-of-digitville/get_sneaky_numbers.erl) | Easy       |
