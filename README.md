@@ -24,3 +24,5 @@ LeetCode
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/) | [Erlang](./algorithms/erlang/minimum-number-of-increments-on-subarrays-to-form-a-target-array/min_number_operations.erl) | Hard       |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description) | [Erlang](./algorithms/erlang/the-two-sneaky-numbers-of-digitville/get_sneaky_numbers.erl) | Easy       |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description) | [Erlang](./algorithms/erlang/minimum-time-to-make-rope-colorful/min_cost.erl) | Medium       |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description) | [Erlang](./algorithms/erlang/counting-bits/count_bits.erl) | Easy       |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description) | [Erlang](./algorithms/erlang/find-x-sum-of-all-k-long-subarrays-i/count_bits.erl) | Easy       |
