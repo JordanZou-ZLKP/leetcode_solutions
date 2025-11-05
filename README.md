@@ -26,3 +26,4 @@ LeetCode
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description) | [Erlang](./algorithms/erlang/minimum-time-to-make-rope-colorful/min_cost.erl) | Medium       |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description) | [Erlang](./algorithms/erlang/counting-bits/count_bits.erl) | Easy       |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description) | [Erlang](./algorithms/erlang/find-x-sum-of-all-k-long-subarrays-i/find_x_sum.erl) | Easy       |
+| 3321 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/) | [Erlang](./algorithms/erlang/find-x-sum-of-all-k-long-subarrays-ii/find_x_sum.erl) | Hard       |
