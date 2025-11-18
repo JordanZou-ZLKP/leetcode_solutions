@@ -27,3 +27,7 @@ LeetCode
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description) | [Erlang](./algorithms/erlang/counting-bits/count_bits.erl) | Easy       |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description) | [Erlang](./algorithms/erlang/find-x-sum-of-all-k-long-subarrays-i/find_x_sum.erl) | Easy       |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/) | [Erlang](./algorithms/erlang/find-x-sum-of-all-k-long-subarrays-ii/find_x_sum.erl) | Hard       |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description) | [Erlang](./algorithms/erlang/1-bit-and-2-bit-characters/is_one_bit_character.erl) | Easy       |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description) | [Erlang](./algorithms/erlang/integer-to-roman/int_to_roman.erl) | Easy       |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description) | [Erlang](./algorithms/erlang/roman-to-integer/roman_to_int.erl) | Easy       |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description) | [Erlang](./algorithms/erlang/letter-combinations-of-a-phone-number/letter_combinations.erl) | Easy       |
