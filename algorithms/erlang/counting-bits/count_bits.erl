@@ -12,3 +12,4 @@ count_bits(I, N, Acc) when I =< N ->
     count_bits(I + 1, N, Acc1);
 count_bits(_, _, Acc) ->
     array:to_list(Acc).
+

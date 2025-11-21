@@ -31,3 +31,6 @@ LeetCode
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description) | [Erlang](./algorithms/erlang/integer-to-roman/int_to_roman.erl) | Easy       |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description) | [Erlang](./algorithms/erlang/roman-to-integer/roman_to_int.erl) | Easy       |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description) | [Erlang](./algorithms/erlang/letter-combinations-of-a-phone-number/letter_combinations.erl) | Easy       |
+| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description) | [Erlang](./algorithms/erlang/keep-multiplying-found-values-by-two/find_final_value.erl) | Easy       |
+| 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Erlang](./algorithms/erlang/set-intersection-size-at-least-two/intersection_size_two.erl) | Hard |
+| 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Erlang](./algorithms/erlang/unique-length-3-palindromic-subsequences/count_palindromic_subsequence.erl) | Medium |
