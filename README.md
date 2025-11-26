@@ -34,3 +34,7 @@ LeetCode
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description) | [Erlang](./algorithms/erlang/keep-multiplying-found-values-by-two/find_final_value.erl) | Easy       |
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Erlang](./algorithms/erlang/set-intersection-size-at-least-two/intersection_size_two.erl) | Hard |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Erlang](./algorithms/erlang/unique-length-3-palindromic-subsequences/count_palindromic_subsequence.erl) | Medium |
+| 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [Erlang](./algorithms/erlang/greatest-sum-divisible-by-three/max_sum_div_three.erl) | Medium |
+| 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Erlang](./algorithms/erlang/binary-prefix-divisible-by-5/prefixes_div_by5.erl) | Easy |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Erlang](./algorithms/erlang/smallest-integer-divisible-by-k/smallest_repunit_div_by_k.erl) | Medium |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Erlang](./algorithms/erlang/paths-in-matrix-whose-sum-is-divisible-by-k/number_of_paths.erl) | Hard |
