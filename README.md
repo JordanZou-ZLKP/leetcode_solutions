@@ -38,3 +38,5 @@ LeetCode
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Erlang](./algorithms/erlang/binary-prefix-divisible-by-5/prefixes_div_by5.erl) | Easy |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Erlang](./algorithms/erlang/smallest-integer-divisible-by-k/smallest_repunit_div_by_k.erl) | Medium |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Erlang](./algorithms/erlang/paths-in-matrix-whose-sum-is-divisible-by-k/number_of_paths.erl) | Hard |
+| 3381 | [Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [Erlang](./algorithms/erlang/maximum-subarray-sum-with-length-divisible-by-k/max_subarray_sum.erl) | Medium |
+| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [Erlang](./algorithms/erlang/maximum-running-time-of-n-computers/max_run_time.erl) | Hard |
