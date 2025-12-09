@@ -40,3 +40,8 @@ LeetCode
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Erlang](./algorithms/erlang/paths-in-matrix-whose-sum-is-divisible-by-k/number_of_paths.erl) | Hard |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [Erlang](./algorithms/erlang/maximum-subarray-sum-with-length-divisible-by-k/max_subarray_sum.erl) | Medium |
 | 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [Erlang](./algorithms/erlang/maximum-running-time-of-n-computers/max_run_time.erl) | Hard |
+| 3623 | [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | [Erlang](./algorithms/erlang/count-number-of-trapezoids-i/count_trapezoids.erl) | Medium |
+| 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [Erlang](./algorithms/erlang/count-number-of-trapezoids-ii/count_trapezoids.erl) | Hard |
+| 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [Erlang](./algorithms/erlang/count-collisions-on-a-road/count_collisions.erl) | Medium |
+| 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [Erlang](./algorithms/erlang/count-square-sum-triples/count_triples.erl) | Easy |
+| 3583 | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | [Erlang](./algorithms/erlang/count-special-triplets/special_triplets.erl) | Medium |
