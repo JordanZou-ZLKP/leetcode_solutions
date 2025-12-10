@@ -45,3 +45,5 @@ LeetCode
 | 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [Erlang](./algorithms/erlang/count-collisions-on-a-road/count_collisions.erl) | Medium |
 | 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [Erlang](./algorithms/erlang/count-square-sum-triples/count_triples.erl) | Easy |
 | 3583 | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | [Erlang](./algorithms/erlang/count-special-triplets/special_triplets.erl) | Medium |
+| 3583 | [Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Erlang](./algorithms/erlang/count-partitions-with-max-min-difference-at-most-k/count_partitions.erl) | Medium |
+| 3577 | [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | [Erlang](./algorithms/erlang/count-the-number-of-computer-unlocking-permutations/count_permutations.erl) | Medium |
