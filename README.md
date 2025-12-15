@@ -47,3 +47,9 @@ LeetCode
 | 3583 | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | [Erlang](./algorithms/erlang/count-special-triplets/special_triplets.erl) | Medium |
 | 3583 | [Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Erlang](./algorithms/erlang/count-partitions-with-max-min-difference-at-most-k/count_partitions.erl) | Medium |
 | 3577 | [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | [Erlang](./algorithms/erlang/count-the-number-of-computer-unlocking-permutations/count_permutations.erl) | Medium |
+| 3531 | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | [Erlang](./algorithms/erlang/count-covered-buildings/count_covered_buildings.erl) | Medium |
+| 3433 | [Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/) | [Erlang](./algorithms/erlang/count-mentions-per-user/count_mentions.erl) | Medium |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | [Erlang](./algorithms/erlang/coupon-code-validator/validate_coupons.erl) | Easy |
+| 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Erlang](./algorithms/erlang/number-of-ways-to-divide-a-long-corridor/number_of_ways.erl) | Hard |
+| 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Erlang](./algorithms/erlang/number-of-smooth-descent-periods-of-a-stock/get_descent_periods.erl) | Medium |
+| 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Erlang](./algorithms/erlang/maximum-number-of-k-divisible-components/max_k_divisible_components.erl) | Hard |
