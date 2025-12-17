@@ -53,3 +53,5 @@ LeetCode
 | 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Erlang](./algorithms/erlang/number-of-ways-to-divide-a-long-corridor/number_of_ways.erl) | Hard |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Erlang](./algorithms/erlang/number-of-smooth-descent-periods-of-a-stock/get_descent_periods.erl) | Medium |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Erlang](./algorithms/erlang/maximum-number-of-k-divisible-components/max_k_divisible_components.erl) | Hard |
+| 3562 | [Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Erlang](./algorithms/erlang/maximum-profit-from-trading-stocks-with-discounts/max_profit.erl) | Hard |
+| 3573 | [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Erlang](./algorithms/erlang/best-time-to-buy-and-sell-stock-v/maximum_profit.erl) | Medium |
