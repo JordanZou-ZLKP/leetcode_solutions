@@ -55,3 +55,5 @@ LeetCode
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Erlang](./algorithms/erlang/maximum-number-of-k-divisible-components/max_k_divisible_components.erl) | Hard |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Erlang](./algorithms/erlang/maximum-profit-from-trading-stocks-with-discounts/max_profit.erl) | Hard |
 | 3573 | [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Erlang](./algorithms/erlang/best-time-to-buy-and-sell-stock-v/maximum_profit.erl) | Medium |
+| 3652 | [Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) | [Erlang](./algorithms/erlang/best-time-to-buy-and-sell-stock-using-strategy/max_profit.erl) | Medium |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [Erlang](./algorithms/erlang/find-all-people-with-secret/find_all_people.erl) | Hard |
