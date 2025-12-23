@@ -81,3 +81,25 @@ LeetCode
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Erlang](./algorithms/erlang/ways-to-express-an-integer-as-sum-of-powers/number_of_ways.erl) | Medium |
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [Erlang](./algorithms/erlang/two-best-non-overlapping-events/max_two_events.erl) | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Erlang](./algorithms/erlang/ones-and-zeroes/find_max_form.erl) | Medium |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Erlang](./algorithms/erlang/power-of-three/is_power_of_three.erl) | Easy |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Erlang](./algorithms/erlang/largest-3-same-digit-number-in-string/largest_good_integer.erl) | Easy |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Erlang](./algorithms/erlang/maximum-69-number/maximum69_number.erl) | Easy |
+| 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [Erlang](./algorithms/erlang/new-21-game/new21_game.erl) | Medium |
+| 679 | [24 Game](https://leetcode.com/problems/24-game/) | [Erlang](./algorithms/erlang/24-game/judge_point24.erl) | Hard |
+| 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Erlang](./algorithms/erlang/number-of-zero-filled-subarrays/zero_filled_subarray.erl) | Medium |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Erlang](./algorithms/erlang/count-square-submatrices-with-all-ones/count_squares.erl) | Medium |
+| 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [Erlang](./algorithms/erlang/count-submatrices-with-all-ones/num_submat.erl) | Medium |
+| 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [Erlang](./algorithms/erlang/count-submatrices-with-all-ones/num_submat.erl) | Medium |
+| 3195 | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | [Erlang](./algorithms/erlang/find-the-minimum-area-to-cover-all-ones-i/minimum_area.erl) | Medium |
+| 3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Erlang](./algorithms/erlang/find-the-minimum-area-to-cover-all-ones-ii/minimum_sum.erl) | Hard |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Erlang](./algorithms/erlang/longest-subarray-of-1s-after-deleting-one-element/longest_subarray.erl) | Medium |
+| 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Erlang](./algorithms/erlang/diagonal-traverse/find_diagonal_order.erl) | Medium |
+| 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Erlang](./algorithms/erlang/maximum-area-of-longest-diagonal-rectangle/area_of_max_diagonal.erl) | Easy |
+| 3459 | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [Erlang](./algorithms/erlang/length-of-longest-v-shaped-diagonal-segment/len_of_v_diagonal.erl) | Hard |
+| 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | [Erlang](./algorithms/erlang/sort-matrix-by-diagonals/sort_matrix.erl) | Medium |
+| 3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | [Erlang](./algorithms/erlang/alice-and-bob-playing-flower-game/flower_game.erl) | Medium |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Erlang](./algorithms/erlang/valid-sudoku/is_valid_sudoku.erl) | Medium |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Erlang](./algorithms/erlang/sudoku-solver/sudoku_solver.erl) | Hard |
+| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Erlang](./algorithms/erlang/maximum-average-pass-ratio/max_average_ratio.erl) | Medium |
+| 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Erlang](./algorithms/erlang/find-the-number-of-ways-to-place-people-i/number_of_pairs.erl) | Medium |
+| 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Erlang](./algorithms/erlang/find-the-number-of-ways-to-place-people-ii/number_of_pairs.erl) | Hard |
