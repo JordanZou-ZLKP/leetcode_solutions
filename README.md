@@ -80,3 +80,4 @@ LeetCode
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | [Erlang](./algorithms/erlang/range-product-queries-of-powers/product_queries.erl) | Medium |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Erlang](./algorithms/erlang/ways-to-express-an-integer-as-sum-of-powers/number_of_ways.erl) | Medium |
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [Erlang](./algorithms/erlang/two-best-non-overlapping-events/max_two_events.erl) | Medium |
+| 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Erlang](./algorithms/erlang/ones-and-zeroes/find_max_form.erl) | Medium |
