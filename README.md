@@ -57,3 +57,26 @@ LeetCode
 | 3573 | [Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Erlang](./algorithms/erlang/best-time-to-buy-and-sell-stock-v/maximum_profit.erl) | Medium |
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) | [Erlang](./algorithms/erlang/best-time-to-buy-and-sell-stock-using-strategy/max_profit.erl) | Medium |
 | 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [Erlang](./algorithms/erlang/find-all-people-with-secret/find_all_people.erl) | Hard |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Erlang](./algorithms/erlang/delete-columns-to-make-sorted/min_deletion_size.erl) | Easy |
+| 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Erlang](./algorithms/erlang/delete-columns-to-make-sorted-ii/min_deletion_size.erl) | Medium |
+| 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Erlang](./algorithms/erlang/delete-columns-to-make-sorted-iii/min_deletion_size.erl) | Hard |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Erlang](./algorithms/erlang/two-sum/two_sum.erl) | Easy |
+| 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Erlang](./algorithms/erlang/maximize-subarrays-after-removing-one-conflicting-pair/max_subarrays.erl) | Hard |
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Erlang](./algorithms/erlang/count-hills-and-valleys-in-an-array/count_hill_valley.erl) | Easy |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Erlang](./algorithms/erlang/count-number-of-maximum-bitwise-or-subsets/count_max_or_subsets.erl) | Medium |
+| 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [Erlang](./algorithms/erlang/smallest-subarrays-with-maximum-bitwise-or/smallest_subarrays.erl) | Medium |
+| 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Erlang](./algorithms/erlang/longest-subarray-with-maximum-bitwise-and/longest_subarray.erl) | Medium |
+| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Erlang](./algorithms/erlang/bitwise-ors-of-subarrays/subarray_bitwise_o_rs.erl) | Medium |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Erlang](./algorithms/erlang/pascals-triangle/generate.erl) | Easy |
+| 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/) | [Erlang](./algorithms/erlang/rearranging-fruits/min_cost.erl) | Hard |
+| 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [Erlang](./algorithms/erlang/maximum-fruits-harvested-after-at-most-k-steps/max_total_fruits.erl) | Hard |
+| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Erlang](./algorithms/erlang/fruit-into-baskets/total_fruit.erl) | Medium |
+| 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [Erlang](./algorithms/erlang/fruits-into-baskets-ii/num_of_unplaced_fruits.erl) | Easy |
+| 3479 | [Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | [Erlang](./algorithms/erlang/fruits-into-baskets-iii/num_of_unplaced_fruits.erl) | Medium |
+| 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Erlang](./algorithms/erlang/find-the-maximum-number-of-fruits-collected/max_collected_fruits.erl) | Hard |
+| 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | [Erlang](./algorithms/erlang/soup-servings/soup_servings.erl) | Medium |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Erlang](./algorithms/erlang/power-of-two/is_power_of_two.erl) | Easy |
+| 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Erlang](./algorithms/erlang/reordered-power-of-2/reordered_power_of2.erl) | Medium |
+| 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | [Erlang](./algorithms/erlang/range-product-queries-of-powers/product_queries.erl) | Medium |
+| 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Erlang](./algorithms/erlang/ways-to-express-an-integer-as-sum-of-powers/number_of_ways.erl) | Medium |
+| 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [Erlang](./algorithms/erlang/two-best-non-overlapping-events/max_two_events.erl) | Medium |
