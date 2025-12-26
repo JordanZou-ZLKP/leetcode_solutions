@@ -108,3 +108,26 @@ LeetCode
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | [Erlang](./algorithms/erlang/find-closest-person/find_closest.erl) | Easy |
 | 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Erlang](./algorithms/erlang/minimum-penalty-for-a-shop/best_closing_time.erl) | Medium |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-the-integer-zero/make_the_integer_zero.erl) | Medium |
+| 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-array-elements-zero/min_operations.erl) | Hard |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Erlang](./algorithms/erlang/find-n-unique-integers-sum-up-to-zero/sum_zero.erl) | Easy |
+| 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Erlang](./algorithms/erlang/convert-integer-to-the-sum-of-two-no-zero-integers/get_no_zero_integers.erl) | Easy |
+| 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Erlang](./algorithms/erlang/number-of-people-aware-of-a-secret/people_aware_of_secret.erl) | Medium |
+| 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [Erlang](./algorithms/erlang/minimum-number-of-people-to-teach/minimum_teachings.erl) | Medium |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | [Erlang](./algorithms/erlang/sort-vowels-in-a-string/sort_vowels.erl) | Medium |
+| 3227 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | [Erlang](./algorithms/erlang/vowels-game-in-a-string/does_alice_win.erl) | Medium |
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Erlang](./algorithms/erlang/find-most-frequent-vowel-and-consonant/max_freq_sum.erl) | Easy |
+| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [Erlang](./algorithms/erlang/vowel-spellchecker/spellchecker.erl) | Medium |
+| 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Erlang](./algorithms/erlang/maximum-number-of-words-you-can-type/can_be_typed_words.erl) | Easy |
+| 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | [Erlang](./algorithms/erlang/replace-non-coprime-numbers-in-array/replace_non_coprimes.erl) | Hard |
+| 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [Erlang](./algorithms/erlang/design-a-food-rating-system/Food, NewRating),
+%% Param_2 = food_ratings_highest_rated.erl) | Medium |
+| 3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/) | [Erlang](./algorithms/erlang/design-task-manager/TaskId),
+%% Param_4 = task_manager_exec_top.erl) | Medium |
+| 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Erlang](./algorithms/erlang/design-spreadsheet/Cell),
+%% Param_3 = spreadsheet_get_value.erl) | Medium |
+| 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Erlang](./algorithms/erlang/compare-version-numbers/compare_version.erl) | Medium |
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Erlang](./algorithms/erlang/fraction-to-recurring-decimal/fraction_to_decimal.erl) | Medium |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Erlang](./algorithms/erlang/triangle/minimum_total.erl) | Medium |
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Erlang](./algorithms/erlang/valid-triangle-number/triangle_number.erl) | Medium |
+| 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Erlang](./algorithms/erlang/largest-triangle-area/largest_triangle_area.erl) | Easy |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Erlang](./algorithms/erlang/largest-perimeter-triangle/largest_perimeter.erl) | Easy |
