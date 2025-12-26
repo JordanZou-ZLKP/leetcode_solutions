@@ -104,3 +104,7 @@ LeetCode
 | 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Erlang](./algorithms/erlang/find-the-number-of-ways-to-place-people-i/number_of_pairs.erl) | Medium |
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Erlang](./algorithms/erlang/find-the-number-of-ways-to-place-people-ii/number_of_pairs.erl) | Hard |
 | 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [Erlang](./algorithms/erlang/apple-redistribution-into-boxes/minimum_boxes.erl) | Easy |
+| 3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | [Erlang](./algorithms/erlang/maximize-happiness-of-selected-children/maximum_happiness_sum.erl) | Medium |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | [Erlang](./algorithms/erlang/find-closest-person/find_closest.erl) | Easy |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Erlang](./algorithms/erlang/minimum-penalty-for-a-shop/best_closing_time.erl) | Medium |
+| 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-the-integer-zero/make_the_integer_zero.erl) | Medium |
