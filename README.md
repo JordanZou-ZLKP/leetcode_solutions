@@ -131,3 +131,16 @@ LeetCode
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Erlang](./algorithms/erlang/valid-triangle-number/triangle_number.erl) | Medium |
 | 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Erlang](./algorithms/erlang/largest-triangle-area/largest_triangle_area.erl) | Easy |
 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Erlang](./algorithms/erlang/largest-perimeter-triangle/largest_perimeter.erl) | Easy |
+| 2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | [Erlang](./algorithms/erlang/meeting-rooms-iii/most_booked.erl) | Hard |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Erlang](./algorithms/erlang/count-negative-numbers-in-a-sorted-matrix/count_negatives.erl) | Easy |
+| 756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | [Erlang](./algorithms/erlang/pyramid-transition-matrix/pyramid_transition.erl) | Medium |
+| 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Erlang](./algorithms/erlang/minimum-score-triangulation-of-polygon/min_score_triangulation.erl) | Medium |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [Erlang](./algorithms/erlang/find-triangular-sum-of-an-array/triangular_sum.erl) | Medium |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Erlang](./algorithms/erlang/water-bottles/num_water_bottles.erl) | Easy |
+| 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | [Erlang](./algorithms/erlang/water-bottles-ii/max_bottles_drunk.erl) | Medium |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Erlang](./algorithms/erlang/trapping-rain-water-ii/trap_rain_water.erl) | Hard |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Erlang](./algorithms/erlang/container-with-most-water/max_area.erl) | Medium |
+| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Erlang](./algorithms/erlang/pacific-atlantic-water-flow/pacific_atlantic.erl) | Medium |
+| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Erlang](./algorithms/erlang/swim-in-rising-water/swim_in_water.erl) | Hard |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [Erlang](./algorithms/erlang/avoid-flood-in-the-city/avoid_flood.erl) | Medium |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Erlang](./algorithms/erlang/successful-pairs-of-spells-and-potions/successful_pairs.erl) | Medium |
