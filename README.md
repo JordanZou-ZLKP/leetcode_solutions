@@ -119,12 +119,9 @@ LeetCode
 | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [Erlang](./algorithms/erlang/vowel-spellchecker/spellchecker.erl) | Medium |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Erlang](./algorithms/erlang/maximum-number-of-words-you-can-type/can_be_typed_words.erl) | Easy |
 | 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | [Erlang](./algorithms/erlang/replace-non-coprime-numbers-in-array/replace_non_coprimes.erl) | Hard |
-| 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [Erlang](./algorithms/erlang/design-a-food-rating-system/Food, NewRating),
-%% Param_2 = food_ratings_highest_rated.erl) | Medium |
-| 3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/) | [Erlang](./algorithms/erlang/design-task-manager/TaskId),
-%% Param_4 = task_manager_exec_top.erl) | Medium |
-| 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Erlang](./algorithms/erlang/design-spreadsheet/Cell),
-%% Param_3 = spreadsheet_get_value.erl) | Medium |
+| 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [Erlang](./algorithms/erlang/design-a-food-rating-system/food_ratings_highest_rated.erl) | Medium |
+| 3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/) | [Erlang](./algorithms/erlang/design-task-manager/ task_manager_exec_top.erl) | Medium |
+| 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Erlang](./algorithms/erlang/design-spreadsheet/spreadsheet_get_value.erl) | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Erlang](./algorithms/erlang/compare-version-numbers/compare_version.erl) | Medium |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Erlang](./algorithms/erlang/fraction-to-recurring-decimal/fraction_to_decimal.erl) | Medium |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Erlang](./algorithms/erlang/triangle/minimum_total.erl) | Medium |
