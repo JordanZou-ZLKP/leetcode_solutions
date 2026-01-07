@@ -1,59 +1,63 @@
 -spec min_time(Skill :: [integer()], Mana :: [integer()]) -> integer().
 min_time(Skill, Mana) ->
-    % 1. 预计算技能的前缀和 (Prefix Sums)
-    % 时间复杂度: O(N)
-    PrefixSums = calc_prefix_sums(Skill),
+    % 1. 计算 Skill 的前缀和 (Prefix Sums)
+    % PrefixSums 列表结构为 [P0, P1, ..., Pn-1]
+    PrefixSums = prefix_sums(Skill, 0, []),
     
-    % 获取最后一个巫师的累计技能值 (P[n-1])，用于最后一步计算
-    LastP = lists:last(PrefixSums),
+    % TotalSkill 即 Pn-1，用于最后一步计算
+    TotalSkill = lists:last(PrefixSums),
     
-    % 2. 遍历 Mana 列表计算药水间的最大延迟总和
-    % 时间复杂度: O(M * N)
-    TotalGap = sum_gaps(Mana, PrefixSums, 0),
+    % 2. 预处理巫师数据以便快速迭代
+    % 我们将需要成对的 (Pi, Pi-1)。
+    % 生成结构: [{P0, 0}, {P1, P0}, {P2, P1}, ...]
+    WizData = prepare_wiz_data(PrefixSums, 0, []),
     
-    % 获取最后一瓶药水的 Mana
-    LastMana = lists:last(Mana),
-    
-    % 3. 结果 = 延迟总和 + 最后一瓶药水的处理时间
-    TotalGap + (LastMana * LastP).
+    % 3. 处理药水列表
+    case Mana of
+        [] -> 0;
+        [FirstMana | RestMana] ->
+            % 第一瓶药水从时刻 0 开始
+            % 递归计算最后一瓶药水的 StartTime (相对于 Wizard 0)
+            LastPotionStartTime = solve_potions(RestMana, FirstMana, 0, WizData),
+            
+            % 4. 最终结果 = 最后一瓶药水的开始时间 + 最后一瓶药水的总处理时长
+            LastPotionMana = lists:last(Mana),
+            LastPotionStartTime + (TotalSkill * LastPotionMana)
+    end.
 
 %% ---------------------------------------------------------
 %% 辅助函数
 %% ---------------------------------------------------------
 
-%% 计算前缀和列表
-%% 输入: [1, 5, 2], 输出: [1, 6, 8]
-calc_prefix_sums(List) ->
-    lists:reverse(calc_prefix_sums(List, 0, [])).
+%% 计算前缀和
+prefix_sums([], _CurrentSum, Acc) ->
+    lists:reverse(Acc);
+prefix_sums([H | T], CurrentSum, Acc) ->
+    NewSum = CurrentSum + H,
+    prefix_sums(T, NewSum, [NewSum | Acc]).
 
-calc_prefix_sums([], _Sum, Acc) ->
-    Acc;
-calc_prefix_sums([H|T], Sum, Acc) ->
-    NewSum = Sum + H,
-    calc_prefix_sums(T, NewSum, [NewSum | Acc]).
+%% 准备 (Pi, Pi-1) 对
+prepare_wiz_data([], _PrevP, Acc) ->
+    lists:reverse(Acc);
+prepare_wiz_data([P | T], PrevP, Acc) ->
+    prepare_wiz_data(T, P, [{P, PrevP} | Acc]).
 
-%% 计算所有药水之间的时间间隔总和
-%% 遍历 Mana 列表，每次取相邻的两个 (PrevMana, CurrMana)
-sum_gaps([M_prev, M_curr | Rest], PrefixSums, AccGap) ->
-    % 计算当前两瓶药水之间的最大延迟
-    Gap = find_max_gap(PrefixSums, 0, M_prev, M_curr, -1),
-    sum_gaps([M_curr | Rest], PrefixSums, AccGap + Gap);
-sum_gaps([_Last], _PrefixSums, AccGap) ->
-    % 只有一瓶药水或已到达最后一瓶，递归结束
-    AccGap.
+%% 核心递归逻辑：遍历 Mana 数组
+solve_potions([], _PrevMana, CurrentStartTime, _WizData) ->
+    CurrentStartTime;
+solve_potions([CurrMana | Rest], PrevMana, CurrentStartTime, WizData) ->
+    % 计算两瓶药水之间必须的“间隔”(Offset)
+    % Offset = max(Pi * PrevMana - Pi_prev * CurrMana) for all i
+    Offset = find_max_offset(WizData, PrevMana, CurrMana, -1000000000000), % 初始化为一个极小值
+    
+    NewStartTime = CurrentStartTime + Offset,
+    solve_potions(Rest, CurrMana, NewStartTime, WizData).
 
-%% 内层循环：找到限制最大的 Gap
-%% 公式: max( P[i]*M_prev - P[i-1]*M_curr ) for all i
-find_max_gap([], _, _, _, MaxVal) ->
+%% 遍历巫师，寻找最大的瓶颈时间差
+find_max_offset([], _PrevM, _CurrM, MaxVal) ->
     MaxVal;
-find_max_gap([P_curr | RestP], P_prev, M_prev, M_curr, CurrentMax) ->
-    % 计算当前巫师节点的限制
-    Val = (P_curr * M_prev) - (P_prev * M_curr),
-    
-    % 更新最大值
-    NewMax = if 
-        Val > CurrentMax -> Val;
-        true -> CurrentMax
-    end,
-    
-    find_max_gap(RestP, P_curr, M_prev, M_curr, NewMax).
+find_max_offset([{P_i, P_prev} | T], PrevM, CurrM, MaxVal) ->
+    % 公式: (P_i * M_j-1) - (P_i-1 * M_j)
+    Val = (P_i * PrevM) - (P_prev * CurrM),
+    NewMax = max(Val, MaxVal),
+    find_max_offset(T, PrevM, CurrM, NewMax).
