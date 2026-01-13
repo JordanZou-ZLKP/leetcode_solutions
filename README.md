@@ -178,3 +178,6 @@ LeetCode
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Erlang](./algorithms/erlang/best-time-to-buy-and-sell-stock/max_profit.erl) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Erlang](./algorithms/erlang/best-time-to-buy-and-sell-stock-ii/max_profit.erl) | Medium |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Erlang](./algorithms/erlang/binary-tree-maximum-path-sum/max_path_sum.erl) | Hard |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Erlang](./algorithms/erlang/max-dot-product-of-two-subsequences/max_dot_product.erl) | Hard |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Erlang](./algorithms/erlang/smallest-subtree-with-all-the-deepest-nodes/subtree_with_all_deepest.erl) | Medium |
+| 3453 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | [Erlang](./algorithms/erlang/separate-squares-i/separate_squares.erl) | Medium |
