@@ -181,3 +181,4 @@ LeetCode
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Erlang](./algorithms/erlang/max-dot-product-of-two-subsequences/max_dot_product.erl) | Hard |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Erlang](./algorithms/erlang/smallest-subtree-with-all-the-deepest-nodes/subtree_with_all_deepest.erl) | Medium |
 | 3453 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | [Erlang](./algorithms/erlang/separate-squares-i/separate_squares.erl) | Medium |
+| 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | [Erlang](./algorithms/erlang/separate-squares-ii/separate_squares.erl) | Hard |
