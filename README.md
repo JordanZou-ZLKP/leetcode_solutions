@@ -194,3 +194,7 @@ LeetCode
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | [Erlang](./algorithms/erlang/minimum-cost-path-with-edge-reversals/min_cost.erl) | Medium |
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Erlang](./algorithms/erlang/minimum-cost-to-convert-string-i/minimum_cost.erl) | Medium |
 | 2977 | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Erlang](./algorithms/erlang/minimum-cost-to-convert-string-ii/minimum_cost.erl) | Hard |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Erlang](./algorithms/erlang/find-smallest-letter-greater-than-target/next_greatest_letter.erl) | Easy |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Erlang](./algorithms/erlang/divide-an-array-into-subarrays-with-minimum-cost-i/minimum_cost.erl) | Easy |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [Erlang](./algorithms/erlang/divide-an-array-into-subarrays-with-minimum-cost-ii/minimum_cost.erl) | Hard |
+| 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [Erlang](./algorithms/erlang/trionic-array-i/is_trionic.erl) | Easy |
