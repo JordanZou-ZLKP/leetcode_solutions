@@ -198,3 +198,10 @@ LeetCode
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Erlang](./algorithms/erlang/divide-an-array-into-subarrays-with-minimum-cost-i/minimum_cost.erl) | Easy |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [Erlang](./algorithms/erlang/divide-an-array-into-subarrays-with-minimum-cost-ii/minimum_cost.erl) | Hard |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [Erlang](./algorithms/erlang/trionic-array-i/is_trionic.erl) | Easy |
+| 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | [Erlang](./algorithms/erlang/trionic-array-ii/max_sum_trionic.erl) | Hard |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | [Erlang](./algorithms/erlang/transformed-array/construct_transformed_array.erl) | Easy |
+| 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | [Erlang](./algorithms/erlang/minimum-removals-to-balance-array/min_removal.erl) | Medium |
+| 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Erlang](./algorithms/erlang/minimum-deletions-to-make-string-balanced/minimum_deletions.erl) | Medium |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Erlang](./algorithms/erlang/balanced-binary-tree/is_balanced.erl) | Easy |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Erlang](./algorithms/erlang/balance-a-binary-search-tree/balance_bst.erl) | Medium |
+| 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | [Erlang](./algorithms/erlang/longest-balanced-subarray-i/longest_balanced.erl) | Medium |
