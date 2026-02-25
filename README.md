@@ -205,3 +205,7 @@ LeetCode
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Erlang](./algorithms/erlang/balanced-binary-tree/is_balanced.erl) | Easy |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Erlang](./algorithms/erlang/balance-a-binary-search-tree/balance_bst.erl) | Medium |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | [Erlang](./algorithms/erlang/longest-balanced-subarray-i/longest_balanced.erl) | Medium |
+| 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [Erlang](./algorithms/erlang/longest-balanced-subarray-ii/longest_balanced.erl) | Hard |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Erlang](./algorithms/erlang/check-if-a-string-contains-all-binary-codes-of-size-k/has_all_codes.erl) | Medium |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Erlang](./algorithms/erlang/sum-of-root-to-leaf-binary-numbers/sum_root_to_leaf.erl) | Easy |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Erlang](./algorithms/erlang/sort-integers-by-the-number-of-1-bits/sort_by_bits.erl) | Easy |
