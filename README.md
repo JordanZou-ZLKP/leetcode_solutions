@@ -209,3 +209,10 @@ LeetCode
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Erlang](./algorithms/erlang/check-if-a-string-contains-all-binary-codes-of-size-k/has_all_codes.erl) | Medium |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Erlang](./algorithms/erlang/sum-of-root-to-leaf-binary-numbers/sum_root_to_leaf.erl) | Easy |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Erlang](./algorithms/erlang/sort-integers-by-the-number-of-1-bits/sort_by_bits.erl) | Easy |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Erlang](./algorithms/erlang/binary-watch/read_binary_watch.erl) | Easy |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Erlang](./algorithms/erlang/binary-number-with-alternating-bits/has_alternating_bits.erl) | Easy |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [Erlang](./algorithms/erlang/count-binary-substrings/count_binary_substrings.erl) | Easy |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [Erlang](./algorithms/erlang/count-binary-substrings/count_binary_substrings.erl) | Easy |
+| 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [Erlang](./algorithms/erlang/special-binary-string/make_largest_special.erl) | Hard |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Erlang](./algorithms/erlang/prime-number-of-set-bits-in-binary-representation/count_prime_set_bits.erl) | Easy |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Erlang](./algorithms/erlang/binary-gap/binary_gap.erl) | Easy |
