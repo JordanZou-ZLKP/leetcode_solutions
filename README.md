@@ -216,3 +216,5 @@ LeetCode
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [Erlang](./algorithms/erlang/special-binary-string/make_largest_special.erl) | Hard |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Erlang](./algorithms/erlang/prime-number-of-set-bits-in-binary-representation/count_prime_set_bits.erl) | Easy |
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Erlang](./algorithms/erlang/binary-gap/binary_gap.erl) | Easy |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Erlang](./algorithms/erlang/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/num_steps.erl) | Medium |
+| 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [Erlang](./algorithms/erlang/minimum-operations-to-equalize-binary-string/min_operations.erl) | Hard |
