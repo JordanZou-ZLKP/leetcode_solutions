@@ -218,3 +218,5 @@ LeetCode
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Erlang](./algorithms/erlang/binary-gap/binary_gap.erl) | Easy |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Erlang](./algorithms/erlang/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/num_steps.erl) | Medium |
 | 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [Erlang](./algorithms/erlang/minimum-operations-to-equalize-binary-string/min_operations.erl) | Hard |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Erlang](./algorithms/erlang/partitioning-into-minimum-number-of-deci-binary-numbers/min_partitions.erl) | Medium |
+| 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Erlang](./algorithms/erlang/minimum-swaps-to-arrange-a-binary-grid/min_swaps.erl) | Medium |
