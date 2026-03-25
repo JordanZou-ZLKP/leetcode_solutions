@@ -242,3 +242,4 @@ LeetCode
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Erlang](./algorithms/erlang/determine-whether-matrix-can-be-obtained-by-rotation/find_rotation.erl) | Easy |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Erlang](./algorithms/erlang/maximum-non-negative-product-in-a-matrix/max_product_path.erl) | Medium |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) | [Erlang](./algorithms/erlang/construct-product-matrix/construct_product_matrix.erl) | Medium |
+| 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Erlang](./algorithms/erlang/equal-sum-grid-partition-i/can_partition_grid.erl) | Medium |
