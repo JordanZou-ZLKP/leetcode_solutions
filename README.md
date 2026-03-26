@@ -243,3 +243,9 @@ LeetCode
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Erlang](./algorithms/erlang/maximum-non-negative-product-in-a-matrix/max_product_path.erl) | Medium |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) | [Erlang](./algorithms/erlang/construct-product-matrix/construct_product_matrix.erl) | Medium |
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Erlang](./algorithms/erlang/equal-sum-grid-partition-i/can_partition_grid.erl) | Medium |
+| 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Erlang](./algorithms/erlang/equal-sum-grid-partition-ii/can_partition_grid.erl) | Hard |
+| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Erlang](./algorithms/erlang/maximum-gap/maximum_gap.erl) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Erlang](./algorithms/erlang/two-sum-ii-input-array-is-sorted/two_sum.erl) | Medium |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Erlang](./algorithms/erlang/excel-sheet-column-title/convert_to_title.erl) | Easy |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Erlang](./algorithms/erlang/excel-sheet-column-number/title_to_number.erl) | Easy |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Erlang](./algorithms/erlang/factorial-trailing-zeroes/trailing_zeroes.erl) | Medium |
