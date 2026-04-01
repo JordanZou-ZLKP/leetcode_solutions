@@ -249,3 +249,9 @@ LeetCode
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Erlang](./algorithms/erlang/excel-sheet-column-title/convert_to_title.erl) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Erlang](./algorithms/erlang/excel-sheet-column-number/title_to_number.erl) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Erlang](./algorithms/erlang/factorial-trailing-zeroes/trailing_zeroes.erl) | Medium |
+| 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Erlang](./algorithms/erlang/matrix-similarity-after-cyclic-shifts/are_similar.erl) | Easy |
+| 2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | [Erlang](./algorithms/erlang/find-the-string-with-lcp/find_the_string.erl) | Hard |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Erlang](./algorithms/erlang/check-if-strings-can-be-made-equal-with-operations-i/can_be_equal.erl) | Easy |
+| 2840 | [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Erlang](./algorithms/erlang/check-if-strings-can-be-made-equal-with-operations-ii/check_strings.erl) | Medium |
+| 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Erlang](./algorithms/erlang/lexicographically-smallest-generated-string/generate_string.erl) | Hard |
+| 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Erlang](./algorithms/erlang/robot-collisions/survived_robots_healths.erl) | Hard |
