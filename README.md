@@ -255,3 +255,9 @@ LeetCode
 | 2840 | [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Erlang](./algorithms/erlang/check-if-strings-can-be-made-equal-with-operations-ii/check_strings.erl) | Medium |
 | 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Erlang](./algorithms/erlang/lexicographically-smallest-generated-string/generate_string.erl) | Hard |
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Erlang](./algorithms/erlang/robot-collisions/survived_robots_healths.erl) | Hard |
+| 3418 | [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Erlang](./algorithms/erlang/maximum-amount-of-money-robot-can-earn/maximum_amount.erl) | Medium |
+| 3661 | [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Erlang](./algorithms/erlang/maximum-walls-destroyed-by-robots/max_walls.erl) | Hard |
+| 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Erlang](./algorithms/erlang/decode-the-slanted-ciphertext/decode_ciphertext.erl) | Medium |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Erlang](./algorithms/erlang/robot-return-to-origin/judge_circle.erl) | Easy |
+| 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Erlang](./algorithms/erlang/walking-robot-simulation/robot_sim.erl) | Medium |
+| 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Erlang](./algorithms/erlang/walking-robot-simulation-ii/robot_init_.erl) | Medium |
