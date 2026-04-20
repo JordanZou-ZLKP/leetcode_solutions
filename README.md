@@ -268,3 +268,7 @@ LeetCode
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Erlang](./algorithms/erlang/minimum-distance-to-the-target-element/get_min_distance.erl) | Easy |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Erlang](./algorithms/erlang/minimum-total-distance-traveled/minimum_total_distance.erl) | Hard |
 | 3488 | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | [Erlang](./algorithms/erlang/closest-equal-element-queries/solve_queries.erl) | Medium |
+| 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Erlang](./algorithms/erlang/minimum-absolute-distance-between-mirror-pairs/min_mirror_pair_distance.erl) | Medium |
+| 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Erlang](./algorithms/erlang/mirror-distance-of-an-integer/mirror_distance.erl) | Easy |
+| 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Erlang](./algorithms/erlang/maximum-distance-between-a-pair-of-values/max_distance.erl) | Medium |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Erlang](./algorithms/erlang/two-furthest-houses-with-different-colors/max_distance.erl) | Easy |
