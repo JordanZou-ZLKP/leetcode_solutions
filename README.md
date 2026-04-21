@@ -272,3 +272,5 @@ LeetCode
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Erlang](./algorithms/erlang/mirror-distance-of-an-integer/mirror_distance.erl) | Easy |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Erlang](./algorithms/erlang/maximum-distance-between-a-pair-of-values/max_distance.erl) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Erlang](./algorithms/erlang/two-furthest-houses-with-different-colors/max_distance.erl) | Easy |
+| 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | [Erlang](./algorithms/erlang/minimum-removals-to-balance-array/min_removal.erl) | Medium |
+| 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Erlang](./algorithms/erlang/minimize-hamming-distance-after-swap-operations/minimum_hamming_distance.erl) | Medium |
