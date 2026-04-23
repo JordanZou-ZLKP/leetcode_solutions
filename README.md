@@ -274,3 +274,5 @@ LeetCode
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Erlang](./algorithms/erlang/two-furthest-houses-with-different-colors/max_distance.erl) | Easy |
 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | [Erlang](./algorithms/erlang/minimum-removals-to-balance-array/min_removal.erl) | Medium |
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Erlang](./algorithms/erlang/minimize-hamming-distance-after-swap-operations/minimum_hamming_distance.erl) | Medium |
+| 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Erlang](./algorithms/erlang/words-within-two-edits-of-dictionary/two_edit_words.erl) | Medium |
+| 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [Erlang](./algorithms/erlang/sum-of-distances/distance.erl) | Medium |
