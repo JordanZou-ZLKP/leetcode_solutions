@@ -276,3 +276,8 @@ LeetCode
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Erlang](./algorithms/erlang/minimize-hamming-distance-after-swap-operations/minimum_hamming_distance.erl) | Medium |
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Erlang](./algorithms/erlang/words-within-two-edits-of-dictionary/two_edit_words.erl) | Medium |
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [Erlang](./algorithms/erlang/sum-of-distances/distance.erl) | Medium |
+| 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Erlang](./algorithms/erlang/furthest-point-from-origin/furthest_distance_from_origin.erl) | Easy |
+| 3464 | [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Erlang](./algorithms/erlang/maximize-the-distance-between-points-on-a-square/max_distance.erl) | Hard |
+| 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Erlang](./algorithms/erlang/detect-cycles-in-2d-grid/contains_cycle.erl) | Medium |
+| 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Erlang](./algorithms/erlang/check-if-there-is-a-valid-path-in-a-grid/has_valid_path.erl) | Medium |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-a-uni-value-grid/min_operations.erl) | Medium |
