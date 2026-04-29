@@ -281,3 +281,4 @@ LeetCode
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Erlang](./algorithms/erlang/detect-cycles-in-2d-grid/contains_cycle.erl) | Medium |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Erlang](./algorithms/erlang/check-if-there-is-a-valid-path-in-a-grid/has_valid_path.erl) | Medium |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-a-uni-value-grid/min_operations.erl) | Medium |
+| 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Erlang](./algorithms/erlang/maximum-score-from-grid-operations/maximum_score.erl) | Hard |
