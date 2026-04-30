@@ -282,3 +282,4 @@ LeetCode
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Erlang](./algorithms/erlang/check-if-there-is-a-valid-path-in-a-grid/has_valid_path.erl) | Medium |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-a-uni-value-grid/min_operations.erl) | Medium |
 | 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Erlang](./algorithms/erlang/maximum-score-from-grid-operations/maximum_score.erl) | Hard |
+| 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | [Erlang](./algorithms/erlang/maximum-path-score-in-a-grid/max_path_score.erl) | Medium |
