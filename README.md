@@ -283,3 +283,8 @@ LeetCode
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-a-uni-value-grid/min_operations.erl) | Medium |
 | 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Erlang](./algorithms/erlang/maximum-score-from-grid-operations/maximum_score.erl) | Hard |
 | 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | [Erlang](./algorithms/erlang/maximum-path-score-in-a-grid/max_path_score.erl) | Medium |
+| 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Erlang](./algorithms/erlang/rotate-function/max_rotate_function.erl) | Medium |
+| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | [Erlang](./algorithms/erlang/rotated-digits/rotated_digits.erl) | Medium |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [Erlang](./algorithms/erlang/rotate-string/rotate_string.erl) | Easy |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Erlang](./algorithms/erlang/rotate-list/rotate_right.erl) | Medium |
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Erlang](./algorithms/erlang/rotating-the-box/rotate_the_box.erl) | Medium |
