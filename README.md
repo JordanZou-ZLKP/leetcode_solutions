@@ -288,3 +288,4 @@ LeetCode
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [Erlang](./algorithms/erlang/rotate-string/rotate_string.erl) | Easy |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Erlang](./algorithms/erlang/rotate-list/rotate_right.erl) | Medium |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Erlang](./algorithms/erlang/rotating-the-box/rotate_the_box.erl) | Medium |
+| 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [Erlang](./algorithms/erlang/jump-game-ix/max_value.erl) | Medium |
