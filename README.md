@@ -289,3 +289,4 @@ LeetCode
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Erlang](./algorithms/erlang/rotate-list/rotate_right.erl) | Medium |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Erlang](./algorithms/erlang/rotating-the-box/rotate_the_box.erl) | Medium |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [Erlang](./algorithms/erlang/jump-game-ix/max_value.erl) | Medium |
+| 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Erlang](./algorithms/erlang/minimum-jumps-to-reach-end-via-prime-teleportation/min_jumps.erl) | Medium |
