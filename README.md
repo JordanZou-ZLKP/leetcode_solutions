@@ -292,3 +292,6 @@ LeetCode
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Erlang](./algorithms/erlang/minimum-jumps-to-reach-end-via-prime-teleportation/min_jumps.erl) | Medium |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Erlang](./algorithms/erlang/maximum-number-of-jumps-to-reach-the-last-index/maximum_jumps.erl) | Medium |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Erlang](./algorithms/erlang/separate-the-digits-in-an-array/separate_digits.erl) | Easy |
+| 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Erlang](./algorithms/erlang/minimum-initial-energy-to-finish-tasks/minimum_effort.erl) | Hard |
+| 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Erlang](./algorithms/erlang/minimum-moves-to-make-array-complementary/min_moves.erl) | Medium |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [Erlang](./algorithms/erlang/check-if-array-is-good/is_good.erl) | Easy |
