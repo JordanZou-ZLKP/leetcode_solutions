@@ -295,3 +295,8 @@ LeetCode
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Erlang](./algorithms/erlang/minimum-initial-energy-to-finish-tasks/minimum_effort.erl) | Hard |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Erlang](./algorithms/erlang/minimum-moves-to-make-array-complementary/min_moves.erl) | Medium |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [Erlang](./algorithms/erlang/check-if-array-is-good/is_good.erl) | Easy |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Erlang](./algorithms/erlang/find-minimum-in-rotated-sorted-array/find_min.erl) | Medium |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Erlang](./algorithms/erlang/find-minimum-in-rotated-sorted-array-ii/find_min.erl) | Hard |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Erlang](./algorithms/erlang/jump-game-iii/can_reach.erl) | Medium |
+| 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Erlang](./algorithms/erlang/jump-game-iv/min_jumps.erl) | Hard |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Erlang](./algorithms/erlang/minimum-common-value/get_common.erl) | Easy |
