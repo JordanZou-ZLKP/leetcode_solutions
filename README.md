@@ -300,3 +300,17 @@ LeetCode
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Erlang](./algorithms/erlang/jump-game-iii/can_reach.erl) | Medium |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Erlang](./algorithms/erlang/jump-game-iv/min_jumps.erl) | Hard |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Erlang](./algorithms/erlang/minimum-common-value/get_common.erl) | Easy |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Erlang](./algorithms/erlang/find-the-prefix-common-array-of-two-arrays/find_the_prefix_common_array.erl) | Medium |
+| 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Erlang](./algorithms/erlang/find-the-length-of-the-longest-common-prefix/longest_common_prefix.erl) | Medium |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Erlang](./algorithms/erlang/search-in-rotated-sorted-array/search.erl) | Medium |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Erlang](./algorithms/erlang/check-if-array-is-sorted-and-rotated/check.erl) | Easy |
+| 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [Erlang](./algorithms/erlang/jump-game-v/max_jumps.erl) | Hard |
+| 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [Erlang](./algorithms/erlang/jump-game-vii/can_reach.erl) | Medium |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Erlang](./algorithms/erlang/count-the-number-of-special-characters-i/number_of_special_chars.erl) | Easy |
+| 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Erlang](./algorithms/erlang/count-the-number-of-special-characters-ii/number_of_special_chars.erl) | Medium |
+| 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | [Erlang](./algorithms/erlang/longest-common-suffix-queries/string_indices.erl) | Hard |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Erlang](./algorithms/erlang/minimum-element-after-replacement-with-digit-sum/min_element.erl) | Easy |
+| 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | [Erlang](./algorithms/erlang/block-placement-queries/get_results.erl) | Hard |
+| 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [Erlang](./algorithms/erlang/destroying-asteroids/asteroids_destroyed.erl) | Medium |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Erlang](./algorithms/erlang/minimum-cost-of-buying-candies-with-discount/minimum_cost.erl) | Easy |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Erlang](./algorithms/erlang/earliest-finish-time-for-land-and-water-rides-i/earliest_finish_time.erl) | Easy |
