@@ -314,3 +314,4 @@ LeetCode
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [Erlang](./algorithms/erlang/destroying-asteroids/asteroids_destroyed.erl) | Medium |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Erlang](./algorithms/erlang/minimum-cost-of-buying-candies-with-discount/minimum_cost.erl) | Easy |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Erlang](./algorithms/erlang/earliest-finish-time-for-land-and-water-rides-i/earliest_finish_time.erl) | Easy |
+| 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Erlang](./algorithms/erlang/earliest-finish-time-for-land-and-water-rides-ii/earliest_finish_time.erl) | Medium |
