@@ -322,3 +322,6 @@ LeetCode
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Erlang](./algorithms/erlang/partition-array-according-to-given-pivot/pivot_array.erl) | Medium |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Erlang](./algorithms/erlang/maximum-total-subarray-value-i/max_total_value.erl) | Medium |
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Erlang](./algorithms/erlang/maximum-total-subarray-value-ii/max_total_value.erl) | Hard |
+| 3558 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Erlang](./algorithms/erlang/number-of-ways-to-assign-edge-weights-i/assign_edge_weights.erl) | Medium |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Erlang](./algorithms/erlang/delete-the-middle-node-of-a-linked-list/delete_middle.erl) | Medium |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Erlang](./algorithms/erlang/maximum-twin-sum-of-a-linked-list/pair_sum.erl) | Medium |
