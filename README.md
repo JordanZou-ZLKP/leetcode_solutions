@@ -325,3 +325,4 @@ LeetCode
 | 3558 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Erlang](./algorithms/erlang/number-of-ways-to-assign-edge-weights-i/assign_edge_weights.erl) | Medium |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Erlang](./algorithms/erlang/delete-the-middle-node-of-a-linked-list/delete_middle.erl) | Medium |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Erlang](./algorithms/erlang/maximum-twin-sum-of-a-linked-list/pair_sum.erl) | Medium |
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Erlang](./algorithms/erlang/process-string-with-special-operations-i/process_str.erl) | Medium |
