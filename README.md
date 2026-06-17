@@ -326,3 +326,4 @@ LeetCode
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Erlang](./algorithms/erlang/delete-the-middle-node-of-a-linked-list/delete_middle.erl) | Medium |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Erlang](./algorithms/erlang/maximum-twin-sum-of-a-linked-list/pair_sum.erl) | Medium |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Erlang](./algorithms/erlang/process-string-with-special-operations-i/process_str.erl) | Medium |
+| 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Erlang](./algorithms/erlang/process-string-with-special-operations-ii/process_str.erl) | Hard |
