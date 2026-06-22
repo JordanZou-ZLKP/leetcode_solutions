@@ -327,3 +327,8 @@ LeetCode
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Erlang](./algorithms/erlang/maximum-twin-sum-of-a-linked-list/pair_sum.erl) | Medium |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Erlang](./algorithms/erlang/process-string-with-special-operations-i/process_str.erl) | Medium |
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Erlang](./algorithms/erlang/process-string-with-special-operations-ii/process_str.erl) | Hard |
+| 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Erlang](./algorithms/erlang/angle-between-hands-of-a-clock/angle_clock.erl) | Medium |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Erlang](./algorithms/erlang/find-the-highest-altitude/largest_altitude.erl) | Easy |
+| 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | [Erlang](./algorithms/erlang/maximum-building-height/max_building.erl) | Hard |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Erlang](./algorithms/erlang/maximum-ice-cream-bars/max_ice_cream.erl) | Medium |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Erlang](./algorithms/erlang/maximum-number-of-balloons/max_number_of_balloons.erl) | Easy |
