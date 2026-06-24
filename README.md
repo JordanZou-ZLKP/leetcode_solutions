@@ -332,3 +332,5 @@ LeetCode
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | [Erlang](./algorithms/erlang/maximum-building-height/max_building.erl) | Hard |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Erlang](./algorithms/erlang/maximum-ice-cream-bars/max_ice_cream.erl) | Medium |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Erlang](./algorithms/erlang/maximum-number-of-balloons/max_number_of_balloons.erl) | Easy |
+| 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Erlang](./algorithms/erlang/number-of-zigzag-arrays-i/zig_zag_arrays.erl) | Hard |
+| 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Erlang](./algorithms/erlang/number-of-zigzag-arrays-ii/zig_zag_arrays.erl) | Hard |
