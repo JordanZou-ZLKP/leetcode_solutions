@@ -334,3 +334,4 @@ LeetCode
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Erlang](./algorithms/erlang/maximum-number-of-balloons/max_number_of_balloons.erl) | Easy |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Erlang](./algorithms/erlang/number-of-zigzag-arrays-i/zig_zag_arrays.erl) | Hard |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Erlang](./algorithms/erlang/number-of-zigzag-arrays-ii/zig_zag_arrays.erl) | Hard |
+| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Erlang](./algorithms/erlang/count-subarrays-with-majority-element-i/count_majority_subarrays.erl) | Medium |
