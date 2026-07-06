@@ -341,3 +341,7 @@ LeetCode
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Erlang](./algorithms/erlang/number-of-strings-that-appear-as-substrings-in-word/num_of_strings.erl) | Easy |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Erlang](./algorithms/erlang/number-of-substrings-containing-all-three-characters/number_of_substrings.erl) | Medium |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Erlang](./algorithms/erlang/find-the-safest-path-in-a-grid/maximum_safeness_factor.erl) | Medium |
+| 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Erlang](./algorithms/erlang/find-a-safe-walk-through-a-grid/find_safe_walk.erl) | Medium |
+| 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | [Erlang](./algorithms/erlang/network-recovery-pathways/find_max_path_score.erl) | Hard |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Erlang](./algorithms/erlang/minimum-score-of-a-path-between-two-cities/min_score.erl) | Medium |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Erlang](./algorithms/erlang/remove-covered-intervals/remove_covered_intervals.erl) | Medium |
