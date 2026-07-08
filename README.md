@@ -346,3 +346,4 @@ LeetCode
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Erlang](./algorithms/erlang/minimum-score-of-a-path-between-two-cities/min_score.erl) | Medium |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Erlang](./algorithms/erlang/remove-covered-intervals/remove_covered_intervals.erl) | Medium |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Erlang](./algorithms/erlang/concatenate-non-zero-digits-and-multiply-by-sum-i/sum_and_multiply.erl) | Easy |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | [Erlang](./algorithms/erlang/concatenate-non-zero-digits-and-multiply-by-sum-ii/sum_and_multiply.erl) | Medium |
