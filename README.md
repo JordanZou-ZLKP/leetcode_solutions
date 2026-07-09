@@ -347,3 +347,4 @@ LeetCode
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Erlang](./algorithms/erlang/remove-covered-intervals/remove_covered_intervals.erl) | Medium |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Erlang](./algorithms/erlang/concatenate-non-zero-digits-and-multiply-by-sum-i/sum_and_multiply.erl) | Easy |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | [Erlang](./algorithms/erlang/concatenate-non-zero-digits-and-multiply-by-sum-ii/sum_and_multiply.erl) | Medium |
+| 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Erlang](./algorithms/erlang/path-existence-queries-in-a-graph-i/path_existence_queries.erl) | Medium |
