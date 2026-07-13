@@ -348,3 +348,7 @@ LeetCode
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Erlang](./algorithms/erlang/concatenate-non-zero-digits-and-multiply-by-sum-i/sum_and_multiply.erl) | Easy |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | [Erlang](./algorithms/erlang/concatenate-non-zero-digits-and-multiply-by-sum-ii/sum_and_multiply.erl) | Medium |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Erlang](./algorithms/erlang/path-existence-queries-in-a-graph-i/path_existence_queries.erl) | Medium |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Erlang](./algorithms/erlang/sequential-digits/sequential_digits.erl) | Medium |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Erlang](./algorithms/erlang/rank-transform-of-an-array/array_rank_transform.erl) | Easy |
+| 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [Erlang](./algorithms/erlang/count-the-number-of-complete-components/count_complete_components.erl) | Medium |
+| 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Erlang](./algorithms/erlang/path-existence-queries-in-a-graph-ii/path_existence_queries.erl) | Hard |
