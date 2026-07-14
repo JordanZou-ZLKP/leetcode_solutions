@@ -352,3 +352,4 @@ LeetCode
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Erlang](./algorithms/erlang/rank-transform-of-an-array/array_rank_transform.erl) | Easy |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [Erlang](./algorithms/erlang/count-the-number-of-complete-components/count_complete_components.erl) | Medium |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Erlang](./algorithms/erlang/path-existence-queries-in-a-graph-ii/path_existence_queries.erl) | Hard |
+| 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | [Erlang](./algorithms/erlang/find-the-number-of-subsequences-with-equal-gcd/subsequence_pair_count.erl) | Hard |
