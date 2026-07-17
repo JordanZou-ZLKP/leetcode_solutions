@@ -354,3 +354,5 @@ LeetCode
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Erlang](./algorithms/erlang/path-existence-queries-in-a-graph-ii/path_existence_queries.erl) | Hard |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | [Erlang](./algorithms/erlang/find-the-number-of-subsequences-with-equal-gcd/subsequence_pair_count.erl) | Hard |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Erlang](./algorithms/erlang/gcd-of-odd-and-even-sums/gcd_of_odd_even_sums.erl) | Easy |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Erlang](./algorithms/erlang/sum-of-gcd-of-formed-pairs/gcd_sum.erl) | Medium |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Erlang](./algorithms/erlang/sorted-gcd-pair-queries/gcd_values.erl) | Hard |
