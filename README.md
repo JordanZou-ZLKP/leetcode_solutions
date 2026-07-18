@@ -356,3 +356,4 @@ LeetCode
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Erlang](./algorithms/erlang/gcd-of-odd-and-even-sums/gcd_of_odd_even_sums.erl) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Erlang](./algorithms/erlang/sum-of-gcd-of-formed-pairs/gcd_sum.erl) | Medium |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Erlang](./algorithms/erlang/sorted-gcd-pair-queries/gcd_values.erl) | Hard |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Erlang](./algorithms/erlang/find-greatest-common-divisor-of-array/find_gcd.erl) | Easy |
