@@ -357,3 +357,5 @@ LeetCode
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Erlang](./algorithms/erlang/sum-of-gcd-of-formed-pairs/gcd_sum.erl) | Medium |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Erlang](./algorithms/erlang/sorted-gcd-pair-queries/gcd_values.erl) | Hard |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Erlang](./algorithms/erlang/find-greatest-common-divisor-of-array/find_gcd.erl) | Easy |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Erlang](./algorithms/erlang/smallest-subsequence-of-distinct-characters/smallest_subsequence.erl) | Medium |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [Erlang](./algorithms/erlang/shift-2d-grid/shift_grid.erl) | Easy |
