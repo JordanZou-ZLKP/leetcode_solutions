@@ -361,3 +361,4 @@ LeetCode
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [Erlang](./algorithms/erlang/shift-2d-grid/shift_grid.erl) | Easy |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | [Erlang](./algorithms/erlang/maximize-active-section-with-trade-i/max_active_sections_after_trade.erl) | Medium |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Erlang](./algorithms/erlang/maximize-active-section-with-trade-ii/max_active_sections_after_trade.erl) | Hard |
+| 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | [Erlang](./algorithms/erlang/number-of-unique-xor-triplets-i/unique_xor_triplets.erl) | Medium |
