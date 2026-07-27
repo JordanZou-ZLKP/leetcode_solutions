@@ -362,3 +362,7 @@ LeetCode
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | [Erlang](./algorithms/erlang/maximize-active-section-with-trade-i/max_active_sections_after_trade.erl) | Medium |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Erlang](./algorithms/erlang/maximize-active-section-with-trade-ii/max_active_sections_after_trade.erl) | Hard |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | [Erlang](./algorithms/erlang/number-of-unique-xor-triplets-i/unique_xor_triplets.erl) | Medium |
+| 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | [Erlang](./algorithms/erlang/number-of-unique-xor-triplets-ii/unique_xor_triplets.erl) | Medium |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Erlang](./algorithms/erlang/maximum-product-of-two-digits/max_product.erl) | Easy |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Erlang](./algorithms/erlang/maximum-product-of-three-numbers/maximum_product.erl) | Easy |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Erlang](./algorithms/erlang/maximum-product-of-two-elements-in-an-array/max_product.erl) | Easy |
