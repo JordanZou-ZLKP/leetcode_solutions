@@ -366,3 +366,4 @@ LeetCode
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Erlang](./algorithms/erlang/maximum-product-of-two-digits/max_product.erl) | Easy |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Erlang](./algorithms/erlang/maximum-product-of-three-numbers/maximum_product.erl) | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Erlang](./algorithms/erlang/maximum-product-of-two-elements-in-an-array/max_product.erl) | Easy |
+| 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | [Erlang](./algorithms/erlang/smallest-palindromic-rearrangement-i/smallest_palindrome.erl) | Medium |
