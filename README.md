@@ -368,3 +368,8 @@ LeetCode
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Erlang](./algorithms/erlang/maximum-product-of-two-elements-in-an-array/max_product.erl) | Easy |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | [Erlang](./algorithms/erlang/smallest-palindromic-rearrangement-i/smallest_palindrome.erl) | Medium |
 | 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | [Erlang](./algorithms/erlang/smallest-palindromic-rearrangement-ii/smallest_palindrome.erl) | Hard |
+| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Erlang](./algorithms/erlang/minimum-number-of-pushes-to-type-word-i/minimum_pushes.erl) | Easy |
+| 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Erlang](./algorithms/erlang/minimum-number-of-pushes-to-type-word-ii/minimum_pushes.erl) | Medium |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Erlang](./algorithms/erlang/predict-the-winner/predict_the_winner.erl) | Medium |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [Erlang](./algorithms/erlang/stone-game/stone_game.erl) | Medium |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Erlang](./algorithms/erlang/stone-game-iii/stone_game_iii.erl) | Hard |
