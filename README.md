@@ -373,3 +373,6 @@ LeetCode
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Erlang](./algorithms/erlang/predict-the-winner/predict_the_winner.erl) | Medium |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [Erlang](./algorithms/erlang/stone-game/stone_game.erl) | Medium |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Erlang](./algorithms/erlang/stone-game-iii/stone_game_iii.erl) | Hard |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Erlang](./algorithms/erlang/find-missing-elements/find_missing_elements.erl) | Easy |
+| 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | [Erlang](./algorithms/erlang/remove-methods-from-project/remaining_methods.erl) | Medium |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Erlang](./algorithms/erlang/smallest-divisible-digit-product-i/smallest_number.erl) | Easy |
