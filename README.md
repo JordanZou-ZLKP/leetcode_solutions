@@ -376,3 +376,4 @@ LeetCode
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Erlang](./algorithms/erlang/find-missing-elements/find_missing_elements.erl) | Easy |
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | [Erlang](./algorithms/erlang/remove-methods-from-project/remaining_methods.erl) | Medium |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Erlang](./algorithms/erlang/smallest-divisible-digit-product-i/smallest_number.erl) | Easy |
+| 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | [Erlang](./algorithms/erlang/smallest-divisible-digit-product-ii/smallest_number.erl) | Hard |
