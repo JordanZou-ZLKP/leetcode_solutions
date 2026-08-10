@@ -377,3 +377,6 @@ LeetCode
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | [Erlang](./algorithms/erlang/remove-methods-from-project/remaining_methods.erl) | Medium |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Erlang](./algorithms/erlang/smallest-divisible-digit-product-i/smallest_number.erl) | Easy |
 | 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | [Erlang](./algorithms/erlang/smallest-divisible-digit-product-ii/smallest_number.erl) | Hard |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Erlang](./algorithms/erlang/find-the-lexicographically-smallest-valid-sequence/valid_sequence.erl) | Medium |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Erlang](./algorithms/erlang/stone-game-ii/stone_game_ii.erl) | Medium |
+| 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Erlang](./algorithms/erlang/stone-game-iv/winner_square_game.erl) | Hard |
