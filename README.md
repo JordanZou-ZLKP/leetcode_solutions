@@ -381,3 +381,4 @@ LeetCode
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Erlang](./algorithms/erlang/stone-game-ii/stone_game_ii.erl) | Medium |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Erlang](./algorithms/erlang/stone-game-iv/winner_square_game.erl) | Hard |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Erlang](./algorithms/erlang/smallest-missing-integer-greater-than-sequential-prefix-sum/missing_integer.erl) | Easy |
+| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Erlang](./algorithms/erlang/rectangle-overlap/is_rectangle_overlap.erl) | Easy |
