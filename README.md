@@ -382,3 +382,4 @@ LeetCode
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Erlang](./algorithms/erlang/stone-game-iv/winner_square_game.erl) | Hard |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Erlang](./algorithms/erlang/smallest-missing-integer-greater-than-sequential-prefix-sum/missing_integer.erl) | Easy |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Erlang](./algorithms/erlang/rectangle-overlap/is_rectangle_overlap.erl) | Easy |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Erlang](./algorithms/erlang/maximum-number-of-non-overlapping-palindrome-substrings/max_palindromes.erl) | Hard |
