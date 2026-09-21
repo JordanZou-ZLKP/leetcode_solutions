@@ -386,3 +386,6 @@ LeetCode
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Erlang](./algorithms/erlang/number-of-sets-of-k-non-overlapping-line-segments/number_of_sets.erl) | Medium |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Erlang](./algorithms/erlang/find-two-non-overlapping-sub-arrays-each-with-target-sum/min_sum_of_lengths.erl) | Medium |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Erlang](./algorithms/erlang/maximum-number-of-non-overlapping-substrings/max_num_of_substrings.erl) | Hard |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Erlang](./algorithms/erlang/circle-and-rectangle-overlapping/check_overlap.erl) | Medium |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Erlang](./algorithms/erlang/reverse-degree-of-a-string/reverse_degree.erl) | Easy |
+| 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | [Erlang](./algorithms/erlang/find-x-value-of-array-i/result_array.erl) | Medium |
