@@ -389,3 +389,5 @@ LeetCode
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Erlang](./algorithms/erlang/circle-and-rectangle-overlapping/check_overlap.erl) | Medium |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Erlang](./algorithms/erlang/reverse-degree-of-a-string/reverse_degree.erl) | Easy |
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | [Erlang](./algorithms/erlang/find-x-value-of-array-i/result_array.erl) | Medium |
+| 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Erlang](./algorithms/erlang/find-x-value-of-array-ii/result_array.erl) | Hard |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Erlang](./algorithms/erlang/minimum-operations-to-reduce-x-to-zero/min_operations.erl) | Medium |
