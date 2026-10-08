@@ -391,3 +391,18 @@ LeetCode
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | [Erlang](./algorithms/erlang/find-x-value-of-array-i/result_array.erl) | Medium |
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Erlang](./algorithms/erlang/find-x-value-of-array-ii/result_array.erl) | Hard |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Erlang](./algorithms/erlang/minimum-operations-to-reduce-x-to-zero/min_operations.erl) | Medium |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Erlang](./algorithms/erlang/smallest-index-with-digit-sum-equal-to-index/smallest_index.erl) | Easy |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [Erlang](./algorithms/erlang/brace-expansion-ii/brace_expansion_ii.erl) | Hard |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Erlang](./algorithms/erlang/evaluate-the-bracket-pairs-of-a-string/evaluate.erl) | Medium |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Erlang](./algorithms/erlang/reverse-substrings-between-each-pair-of-parentheses/reverse_parentheses.erl) | Medium |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Erlang](./algorithms/erlang/maximum-nesting-depth-of-the-parentheses/max_depth.erl) | Easy |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Erlang](./algorithms/erlang/check-if-there-is-a-valid-parentheses-string-path/has_valid_path.erl) | Hard |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Erlang](./algorithms/erlang/maximum-nesting-depth-of-two-valid-parentheses-strings/max_depth_after_split.erl) | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Erlang](./algorithms/erlang/valid-parentheses/is_valid.erl) | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Erlang](./algorithms/erlang/generate-parentheses/generate_parenthesis.erl) | Medium |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Erlang](./algorithms/erlang/longest-valid-parentheses/longest_valid_parentheses.erl) | Hard |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Erlang](./algorithms/erlang/valid-parenthesis-string/check_valid_string.erl) | Medium |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Erlang](./algorithms/erlang/score-of-parentheses/score_of_parentheses.erl) | Medium |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Erlang](./algorithms/erlang/minimum-add-to-make-parentheses-valid/min_add_to_make_valid.erl) | Medium |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Erlang](./algorithms/erlang/remove-invalid-parentheses/remove_invalid_parentheses.erl) | Hard |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Erlang](./algorithms/erlang/remove-outermost-parentheses/remove_outer_parentheses.erl) | Easy |
