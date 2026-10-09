@@ -406,3 +406,4 @@ LeetCode
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Erlang](./algorithms/erlang/minimum-add-to-make-parentheses-valid/min_add_to_make_valid.erl) | Medium |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Erlang](./algorithms/erlang/remove-invalid-parentheses/remove_invalid_parentheses.erl) | Hard |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Erlang](./algorithms/erlang/remove-outermost-parentheses/remove_outer_parentheses.erl) | Easy |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Erlang](./algorithms/erlang/minimum-insertions-to-balance-a-parentheses-string/min_insertions.erl) | Medium |
