@@ -407,3 +407,4 @@ LeetCode
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Erlang](./algorithms/erlang/remove-invalid-parentheses/remove_invalid_parentheses.erl) | Hard |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Erlang](./algorithms/erlang/remove-outermost-parentheses/remove_outer_parentheses.erl) | Easy |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Erlang](./algorithms/erlang/minimum-insertions-to-balance-a-parentheses-string/min_insertions.erl) | Medium |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Erlang](./algorithms/erlang/minimum-sum-of-squared-difference/min_sum_square_diff.erl) | Medium |
