@@ -408,3 +408,5 @@ LeetCode
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Erlang](./algorithms/erlang/remove-outermost-parentheses/remove_outer_parentheses.erl) | Easy |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Erlang](./algorithms/erlang/minimum-insertions-to-balance-a-parentheses-string/min_insertions.erl) | Medium |
 | 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Erlang](./algorithms/erlang/minimum-sum-of-squared-difference/min_sum_square_diff.erl) | Medium |
+| 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Erlang](./algorithms/erlang/sum-of-squares-of-special-elements/sum_of_squares.erl) | Easy |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Erlang](./algorithms/erlang/apply-operations-on-array-to-maximize-sum-of-squares/max_sum.erl) | Hard |
