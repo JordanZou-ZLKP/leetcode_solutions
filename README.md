@@ -412,3 +412,4 @@ LeetCode
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Erlang](./algorithms/erlang/apply-operations-on-array-to-maximize-sum-of-squares/max_sum.erl) | Hard |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Erlang](./algorithms/erlang/maximum-alternating-sum-of-squares/max_alternating_sum.erl) | Medium |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Erlang](./algorithms/erlang/maximize-sum-of-squares-of-digits/max_sum_of_squares.erl) | Medium |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Erlang](./algorithms/erlang/subarrays-distinct-element-sum-of-squares-i/sum_counts.erl) | Easy |
