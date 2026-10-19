@@ -414,3 +414,6 @@ LeetCode
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Erlang](./algorithms/erlang/maximize-sum-of-squares-of-digits/max_sum_of_squares.erl) | Medium |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Erlang](./algorithms/erlang/subarrays-distinct-element-sum-of-squares-i/sum_counts.erl) | Easy |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [Erlang](./algorithms/erlang/subarrays-distinct-element-sum-of-squares-ii/sum_counts.erl) | Hard |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Erlang](./algorithms/erlang/minimum-swaps-to-sort-by-digit-sum/min_swaps.erl) | Medium |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Erlang](./algorithms/erlang/number-of-ways-to-reorder-array-to-get-same-bst/num_of_ways.erl) | Hard |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Erlang](./algorithms/erlang/find-target-indices-after-sorting-array/target_indices.erl) | Easy |
