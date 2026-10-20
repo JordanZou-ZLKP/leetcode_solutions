@@ -417,3 +417,4 @@ LeetCode
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Erlang](./algorithms/erlang/minimum-swaps-to-sort-by-digit-sum/min_swaps.erl) | Medium |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Erlang](./algorithms/erlang/number-of-ways-to-reorder-array-to-get-same-bst/num_of_ways.erl) | Hard |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Erlang](./algorithms/erlang/find-target-indices-after-sorting-array/target_indices.erl) | Easy |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [Erlang](./algorithms/erlang/sum-of-sortable-integers/sortable_integers.erl) | Hard |
