@@ -418,3 +418,4 @@ LeetCode
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Erlang](./algorithms/erlang/number-of-ways-to-reorder-array-to-get-same-bst/num_of_ways.erl) | Hard |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Erlang](./algorithms/erlang/find-target-indices-after-sorting-array/target_indices.erl) | Easy |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [Erlang](./algorithms/erlang/sum-of-sortable-integers/sortable_integers.erl) | Hard |
+| 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Erlang](./algorithms/erlang/minimum-operations-to-sort-a-string/min_operations.erl) | Medium |
