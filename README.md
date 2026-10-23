@@ -420,3 +420,4 @@ LeetCode
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [Erlang](./algorithms/erlang/sum-of-sortable-integers/sortable_integers.erl) | Hard |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Erlang](./algorithms/erlang/minimum-operations-to-sort-a-string/min_operations.erl) | Medium |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Erlang](./algorithms/erlang/minimum-operations-to-sort-a-permutation/min_operations.erl) | Medium |
+| 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Erlang](./algorithms/erlang/maximum-k-to-sort-a-permutation/sort_permutation.erl) | Medium |
