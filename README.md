@@ -421,3 +421,6 @@ LeetCode
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Erlang](./algorithms/erlang/minimum-operations-to-sort-a-string/min_operations.erl) | Medium |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Erlang](./algorithms/erlang/minimum-operations-to-sort-a-permutation/min_operations.erl) | Medium |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Erlang](./algorithms/erlang/maximum-k-to-sort-a-permutation/sort_permutation.erl) | Medium |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [Erlang](./algorithms/erlang/count-days-spent-together/count_days_together.erl) | Easy |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Erlang](./algorithms/erlang/number-of-closed-islands/closed_island.erl) | Medium |
+| 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Erlang](./algorithms/erlang/count-islands-with-total-value-divisible-by-k/count_islands.erl) | Medium |
