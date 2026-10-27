@@ -424,3 +424,4 @@ LeetCode
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [Erlang](./algorithms/erlang/count-days-spent-together/count_days_together.erl) | Easy |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Erlang](./algorithms/erlang/number-of-closed-islands/closed_island.erl) | Medium |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Erlang](./algorithms/erlang/count-islands-with-total-value-divisible-by-k/count_islands.erl) | Medium |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Erlang](./algorithms/erlang/create-grid-with-exactly-one-path/create_grid.erl) | Easy |
