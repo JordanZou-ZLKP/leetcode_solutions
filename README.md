@@ -426,3 +426,6 @@ LeetCode
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Erlang](./algorithms/erlang/count-islands-with-total-value-divisible-by-k/count_islands.erl) | Medium |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Erlang](./algorithms/erlang/create-grid-with-exactly-one-path/create_grid.erl) | Easy |
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Erlang](./algorithms/erlang/minimum-xor-path-in-a-grid/min_cost.erl) | Medium |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Erlang](./algorithms/erlang/palindromic-path-queries-in-a-tree/palindrome_path.erl) | Hard |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Erlang](./algorithms/erlang/shortest-path-with-at-most-k-consecutive-identical-characters/shortest_path.erl) | Medium |
+| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [Erlang](./algorithms/erlang/twisted-mirror-path-count/unique_paths.erl) | Medium |
