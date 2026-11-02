@@ -429,3 +429,5 @@ LeetCode
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Erlang](./algorithms/erlang/palindromic-path-queries-in-a-tree/palindrome_path.erl) | Hard |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Erlang](./algorithms/erlang/shortest-path-with-at-most-k-consecutive-identical-characters/shortest_path.erl) | Medium |
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [Erlang](./algorithms/erlang/twisted-mirror-path-count/unique_paths.erl) | Medium |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements/min_moves.erl) | Medium |
+| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements-ii/min_moves2.erl) | Medium |
