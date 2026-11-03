@@ -431,3 +431,4 @@ LeetCode
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [Erlang](./algorithms/erlang/twisted-mirror-path-count/unique_paths.erl) | Medium |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements/min_moves.erl) | Medium |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements-ii/min_moves2.erl) | Medium |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements-iii/min_moves.erl) | Easy |
