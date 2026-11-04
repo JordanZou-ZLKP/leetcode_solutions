@@ -432,3 +432,4 @@ LeetCode
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements/min_moves.erl) | Medium |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements-ii/min_moves2.erl) | Medium |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Erlang](./algorithms/erlang/minimum-moves-to-equal-array-elements-iii/min_moves.erl) | Easy |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Erlang](./algorithms/erlang/minimum-operations-to-make-elements-within-k-subarrays-equal/min_operations.erl) | Hard |
