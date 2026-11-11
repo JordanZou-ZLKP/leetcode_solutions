@@ -438,3 +438,5 @@ LeetCode
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [Erlang](./algorithms/erlang/process-tasks-using-servers/assign_tasks.erl) | Medium |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [Erlang](./algorithms/erlang/count-servers-that-communicate/count_servers.erl) | Medium |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Erlang](./algorithms/erlang/find-servers-that-handled-most-number-of-requests/busiest_servers.erl) | Hard |
+| 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [Erlang](./algorithms/erlang/climbing-stairs-ii/climb_stairs.erl) | Medium |
+| 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Erlang](./algorithms/erlang/minimum-cost-to-acquire-required-items/minimum_cost.erl) | Medium |
