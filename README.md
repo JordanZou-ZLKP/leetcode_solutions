@@ -440,3 +440,4 @@ LeetCode
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Erlang](./algorithms/erlang/find-servers-that-handled-most-number-of-requests/busiest_servers.erl) | Hard |
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [Erlang](./algorithms/erlang/climbing-stairs-ii/climb_stairs.erl) | Medium |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Erlang](./algorithms/erlang/minimum-cost-to-acquire-required-items/minimum_cost.erl) | Medium |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Erlang](./algorithms/erlang/longest-strictly-increasing-or-strictly-decreasing-subarray/longest_monotonic_subarray.erl) | Easy |
