@@ -441,3 +441,4 @@ LeetCode
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [Erlang](./algorithms/erlang/climbing-stairs-ii/climb_stairs.erl) | Medium |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Erlang](./algorithms/erlang/minimum-cost-to-acquire-required-items/minimum_cost.erl) | Medium |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Erlang](./algorithms/erlang/longest-strictly-increasing-or-strictly-decreasing-subarray/longest_monotonic_subarray.erl) | Easy |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Erlang](./algorithms/erlang/count-non-decreasing-subarrays-after-k-operations/count_non_decreasing_subarrays.erl) | Hard |
