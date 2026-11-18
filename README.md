@@ -446,3 +446,4 @@ LeetCode
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Erlang](./algorithms/erlang/number-of-sub-arrays-with-odd-sum/num_of_subarrays.erl) | Medium |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Erlang](./algorithms/erlang/calculate-digit-sum-of-a-string/digit_sum.erl) | Easy |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Erlang](./algorithms/erlang/minimum-changes-to-make-k-semi-palindromes/minimum_changes.erl) | Hard |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Erlang](./algorithms/erlang/minimum-number-of-changes-to-make-binary-string-beautiful/min_changes.erl) | Medium |
