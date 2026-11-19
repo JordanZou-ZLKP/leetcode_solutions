@@ -447,3 +447,4 @@ LeetCode
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Erlang](./algorithms/erlang/calculate-digit-sum-of-a-string/digit_sum.erl) | Easy |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Erlang](./algorithms/erlang/minimum-changes-to-make-k-semi-palindromes/minimum_changes.erl) | Hard |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Erlang](./algorithms/erlang/minimum-number-of-changes-to-make-binary-string-beautiful/min_changes.erl) | Medium |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Erlang](./algorithms/erlang/minimum-score-by-changing-two-elements/minimize_sum.erl) | Medium |
